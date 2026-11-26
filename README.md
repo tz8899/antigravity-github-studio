@@ -47,7 +47,3 @@ npm run build:ui
 npm test          # 运行单元测试（分支编码、三端加密存储、OAuth/PAT、ZIP 防穿越与密钥脱敏、预览确认流）
 npm run build:ui  # 重新打包单文件 MCP App 前端产物 dist/studio.html
 ```
-
-## 开源协议
-
-基于 [MIT License](./LICENSE) 开源。致谢上游项目 [zhaohaix/DeepSeek-GitHub](https://github.com/zhaohaix/DeepSeek-GitHub)。
