@@ -1,6 +1,6 @@
 # Antigravity GitHub Studio
 
-从 `dsh-github-studio`（[zhaohaix/DeepSeek-GitHub](https://github.com/zhaohaix/DeepSeek-GitHub)，MIT 协议）完整移植并深度增强适配至 **Google Antigravity** 的原生可视化工作台插件（MCP App + 13 个 MCP 工具 + 配套 Skill）。
+ **Google Antigravity** 的原生可视化工作台插件（MCP App + 13 个 MCP 工具 + 配套 Skill）。
 
 ## 核心特性
 
