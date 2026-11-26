@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "studio": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/server.mjs"],
+      "env": {
+        "PLUGIN_DATA": "${PLUGIN_DATA}",
+        "NODE_USE_ENV_PROXY": "1"
+      }
+    }
+  }
+}

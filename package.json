@@ -1,0 +1,22 @@
+{
+  "name": "antigravity-github-studio",
+  "version": "1.0.0",
+  "description": "Native GitHub Studio MCP App plugin for Google Antigravity",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "build:ui": "node scripts/build-ui.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/ext-apps": "^1.0.1",
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  }
+}

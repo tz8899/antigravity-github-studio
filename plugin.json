@@ -1,0 +1,12 @@
+{
+  "name": "github-studio",
+  "displayName": "GitHub Studio",
+  "version": "1.0.0",
+  "description": "Antigravity GitHub 工作台与发布插件：设备流/令牌本机加密连接、仓库与代码浏览、源码提取项目介绍、草稿自动保存，以及先预览后确认的仓库创建、代码提交与 Release 大附件发布。",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "打开 GitHub Studio 工作台管理我的仓库和发布版本",
+    "列出我当前连接的 GitHub 仓库并读取最近更新的项目 README",
+    "帮我在 GitHub 上全站搜索高星的开源 MCP 工具仓库"
+  ]
+}
